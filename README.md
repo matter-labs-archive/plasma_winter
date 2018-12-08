@@ -1,4 +1,4 @@
-# Baby Plasma: governed by SNARKs
+#Plasma Winter: governed by SNARKs
 
 Spec: https://hackmd.io/cY-VP7SDTUGgPOzDiEU3TQ
 
@@ -40,5 +40,14 @@ It will generate a `VerificationKeys.sol` and proving key `pk.key` in a root fol
 
 - Batch size is 32 transactions, so you need to send this number of txes to start block commitment and proof generation process
 
+- UI lives here `https://github.com/gluk64/gluk64.github.io`, you need to change 
+```
+   const APIserver = 'https://1be52733.ngrok.io/send'
+```
+
+To something else
+
 # License
 
+Plasma Winter is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
