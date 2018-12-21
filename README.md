@@ -1,6 +1,15 @@
-#Plasma Winter: governed by SNARKs
+# Plasma Winter: governed by SNARKs
 
-Spec: https://hackmd.io/cY-VP7SDTUGgPOzDiEU3TQ
+This work is a demonstration of applying zk-SNARKs to solving blockchain scalability as a Layer 2 Plasma-like solution.
+
+The code is meant to serve as a Proof-of-concept only and is not suitable for use in production apps. Work on the production-grade implementation is currently in progress. If you want to contribute, please contact the authors:
+
+- Alex Vlasov <alex.m.vlasov@gmail.com> (https://thematter.io)
+- Alex Gluchowski <alex@gluchowski.net>
+
+## Spec
+
+https://hackmd.io/cY-VP7SDTUGgPOzDiEU3TQ
 
 ## How to run
 
